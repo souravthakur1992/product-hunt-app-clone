@@ -1,0 +1,130 @@
+{
+    "launchedProducts": [
+        {
+            "title": "SEO Stuff — Excellent keywords research, without monthly subscription",
+            "tags": [
+                {
+                    "title": "Solo maker",
+                    "link": "/"
+                },
+                {
+                    "title": "Bootstrapped",
+                    "link": "/"
+                },
+                {
+                    "title": "#marketing",
+                    "link": "/"
+                },
+                {
+                    "title": "#seo",
+                    "link": "/"
+                }
+            ],
+            "image": "https://ph-files.imgix.net/e03e399c-c247-4c58-ba58-3055b1721840.png",
+            "number": 478
+        },
+        {
+            "title": "InterviewJarvis — Train your brain with AI, prepare for any job in tech",
+            "tags": [
+                {
+                    "title": "Bootstrapped",
+                    "link": "/"
+                },
+                {
+                    "title": "#hiring",
+                    "link": "/"
+                },
+                {
+                    "title": "#artificial-intelligence",
+                    "link": "/"
+                },
+                {
+                    "title": "#youtube",
+                    "link": "/"
+                }
+            ],
+            "image": "https://ph-files.imgix.net/219329e3-3eac-49be-a78e-a5c811da2e86.gif",
+            "number": 300
+        },
+        {
+            "title": "Roast My Web — Boost your site with smart AI feedback",
+            "tags": [
+                {
+                    "title": "Bootstrapped",
+                    "link": "/"
+                },
+                {
+                    "title": "#artificial-intelligence",
+                    "link": "/"
+                },
+                {
+                    "title": "Solo maker",
+                    "link": "/"
+                },
+                {
+                    "title": "#seo",
+                    "link": "/"
+                }
+            ],
+            "image": "https://ph-files.imgix.net/769ab989-756f-4152-a3f9-881b76745887.png",
+            "number": 260
+        },
+        {
+            "title": "Secureframe — Automated security compliance for your business in weeks",
+            "tags": [
+                {
+                    "title": "Promoted",
+                    "link": "/"
+                },
+                {
+                    "title": "#saas",
+                    "link": "/"
+                },
+                {
+                    "title": "#privacy",
+                    "link": "/"
+                },
+                {
+                    "title": "#developer-tools",
+                    "link": "/"
+                }
+            ],
+            "image": "https://ph-files.imgix.net/7398c365-0037-47b0-8f77-8e471b69782e.gif",
+            "number": 600
+        }
+    ],
+    "reviewedProducts": [
+        {
+            "title": "Wondershare Virbo",
+            "description": "Virbo enables users to create AI Avatar video.",
+            "image": "https://ph-files.imgix.net/ecfef827-fef2-43e1-91e9-772ac08ec4f9.png"
+        },
+        {
+            "title": "Testmarket Analytics INC",
+            "description": "Virbo enables users to create AI Avatar video.",
+            "image": "https://ph-files.imgix.net/1d82802b-3221-48f3-9a72-732aa648aabe.png"
+        },
+        {
+            "title": "Magic Square",
+            "description": "Discover Blockchain Apps and Games with the Web3 App Store",
+            "image": "https://ph-files.imgix.net/8105ed15-7e88-4c23-aa21-785c4994c7b1.png"
+        }
+    ],
+    "comingSoon": [
+        {
+            "title": "OMMT Club",
+            "description": "Dive into a world of fascinating vehicles, connect with fellow riders, and…",
+            "image": "https://ph-files.imgix.net/9466d70e-2021-48a5-9a42-ab531ed639db.png"
+        },
+        {
+            "title": "Guide",
+            "description": "Harness the power of AI to effortlessly design your perfect itinerary in…",
+            "image": "https://ph-files.imgix.net/327b6142-e8d9-414d-974b-5f83159ac7ae.gif"
+        },
+        {
+            "title": "ScreenLink",
+            "description": "Easily create instantly sharable screen recordings! Choose your screen, webcam…",
+            "image": "https://ph-files.imgix.net/438c7eac-8d6f-4d2a-9968-c72fb31831c9.png"
+        }
+    ]
+}

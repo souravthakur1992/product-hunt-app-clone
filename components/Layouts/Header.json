@@ -1,0 +1,89 @@
+{
+    "header": [
+        {
+            "name": "Products",
+            "href": "/",
+            "children": {
+                "latest": [
+                    {
+                        "image": "https://ph-static.imgix.net/nav-coming-soon.png",
+                        "name": "Coming soon",
+                        "description": "Check out launches that are coming soon"
+                    },
+                    {
+                        "image": "https://ph-static.imgix.net/nav-qna-icon.png",
+                        "name": "Product questions",
+                        "description": "Answer the most interesting questions"
+                    },
+                    {
+                        "image": "https://ph-static.imgix.net/header-newsletter.png",
+                        "name": "Newsletter",
+                        "description": "The best of Product Hunt, every day"
+                    }
+                ],
+                "popular": {
+                    "title": "Popular products in...",
+                    "children": [
+                        {
+                            "name": "AI",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Web3",
+                            "href": "/"
+                        },
+                        {
+                            "name": "No Code",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Design Tools",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Social Media",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Developer Tools",
+                            "href": "/"
+                        },
+                        {
+                            "name": "E-Commerce",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Marketing",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Analytics",
+                            "href": "/"
+                        },
+                        {
+                            "name": "Finance",
+                            "href": "/"
+                        }
+                    ]
+
+                }
+            }
+        },
+        {
+            "name": "Community",
+            "href": "/"
+        },
+        {
+            "name": "Marketplace",
+            "href": "/"
+        },
+        {
+            "name": "Advertise",
+            "href": "/"
+        },
+        {
+            "name": "About",
+            "href": "/"
+        }
+    ]
+}

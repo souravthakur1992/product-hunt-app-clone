@@ -1,0 +1,31 @@
+{
+    "topLinks": {
+        "mainTopics": [
+            {
+                "title": "Today",
+                "image": "/assets/images/today.svg"
+            },
+            {
+                "title": "Activity",
+                "image": "/assets/images/activity.svg"
+            }
+        ],
+        "trendingTopics": [
+            {
+                "title": "Artificial Intelligence"
+            },
+            {
+                "title": "Productivity"
+            },
+            {
+                "title": "Marketing"
+            },
+            {
+                "title": "Developer Tools"
+            },
+            {
+                "title": "SaaS"
+            }
+        ]
+    }
+}
